@@ -1,3 +1,6 @@
 "The Advanced Git Guide: Git Stash, Reset, Rebase, and More." 
 "This is another line in the guide." 
+<<<<<<< HEAD
 "This is another line in the guide." 
+=======
+>>>>>>> d8221af (Add more content to guide)
