@@ -1,1 +1,2 @@
 "The Advanced Git Guide: Git Stash, Reset, Rebase, and More." 
+"This is another line in the guide." 
